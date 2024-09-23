@@ -1,3 +1,8 @@
+Kartik Tyagi
+
+The repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
+
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
